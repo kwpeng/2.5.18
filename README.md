@@ -1,10 +1,10 @@
 # 2.5.18
 
 What is the question you hope to answer?
-- I wish to sort through data and enable real estate buyers to have an easier time finding their most suitable apartments online to narrow down for visits and deper inquiries.
+- I wish to improve the appraisal and valuation of real estate. Take more factors that will affect real estate value into account.
 What data are you planning to use to answer that question?
-- https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+- https://www.kaggle.com/c/zillow-prize-1
 What do you know about the data you're using so far?
-- I've browsed through real estate listings before and have whirled through mazes to find listings that suit me.
+- I have used zillow before and have an understanding of real estate.
 Why did you choose this topic?
-- I love real estate!
+- Valuation of real estate has cascading effects.
